@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (Optional: ignore if datasets are very large, but keep here for your project)
+# data/*.csv
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project Specification
+Proiect ML.pdf
+
+# Streamlit
+.streamlit/
+
+# uv
+.python-version
